@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Omar.jpeg" alt="Omar Salem" width="150" height="150" style="border-radius: 50%; border: 3px solid #00C9FF; object-fit: cover;"/>
+</p>
+
 <h1 align="center">Omar Salem 👋</h1>
 
 <p align="center">
@@ -106,3 +110,4 @@
 </p>
 
 <p align="center"><i>"Data is not just numbers — it's the story behind every decision."</i></p>
+
